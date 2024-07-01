@@ -3,9 +3,7 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            
-
+        {          
             string userInput;
             do
             {
@@ -20,10 +18,7 @@
                 userInput = Console.ReadLine();
             }
             while (userInput == "+");
-
-           
-
-            
+                           
         }
     }
 }
